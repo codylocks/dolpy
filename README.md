@@ -7,6 +7,9 @@
 - time
 - requests (https://github.com/psf/requests)
 
-### Authors
+### Original Authors
 - https://github.com/codylocks
 - https://github.com/alexzadel
+- https://github.com/ZachTretter
+- https://github.com/lukepods
+- https://github.com/jungmoon-ham
